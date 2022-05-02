@@ -1,0 +1,22 @@
+.task-input,
+.task-btn {
+  height: 2rem;
+  border: thin solid #00471b;
+  outline: none;
+  padding: 0.5rem;
+  font-size: 0.8rem;
+  border-radius: 0 4px 4px 0;
+}
+.task-input {
+  width: 80%;
+  background-color: #fff;
+  margin-right: 0.5rem;
+}
+.task-btn {
+  width: 18%;
+  background-color: #00471b;
+  color: #fff;
+  font-weight: 400;
+  text-transform: capitalize;
+  cursor: pointer;
+}
